@@ -1,0 +1,102 @@
+{
+    "title": "CSV to JSON Schema",
+    "type": "record",
+    "fields": {
+        "GpsProvider": {
+            "type": "string"
+        },
+        "BookingID": {
+            "type": "string"
+        },
+        "Market/Regular ": {
+            "type": "string"
+        },
+        "BookingID_Date": {
+            "type": "string"
+        },
+        "vehicle_no": {
+            "type": "string"
+        },
+        "Origin_Location": {
+            "type": "string"
+        },
+        "Destination_Location": {
+            "type": "string"
+        },
+        "Org_lat_lon": {
+            "type": "string"
+        },
+        "Des_lat_lon": {
+            "type": "string"
+        },
+        "Data_Ping_time": {
+            "type": "string"
+        },
+        "Planned_ETA": {
+            "type": "string"
+        },
+        "Current_Location": {
+            "type": "string"
+        },
+        "DestinationLocation": {
+            "type": "string"
+        },
+        "actual_eta": {
+            "type": "string"
+        },
+        "Curr_lat": {
+            "type": "number"
+        },
+        "Curr_lon": {
+            "type": "number"
+        },
+        "ontime": {
+            "type": "string"
+        },
+        "delay": {
+            "type": "string"
+        },
+        "OriginLocation_Code": {
+            "type": "string"
+        },
+        "DestinationLocation_Code": {
+            "type": "string"
+        },
+        "trip_start_date": {
+            "type": "string"
+        },
+        "trip_end_date": {
+            "type": "string"
+        },
+        "TRANSPORTATION_DISTANCE_IN_KM": {
+            "type": "integer"
+        },
+        "vehicleType": {
+            "type": "string"
+        },
+        "Minimum_kms_to_be_covered_in_a_day": {
+            "type": "string"
+        },
+        "Driver_Name": {
+            "type": "string"
+        },
+        "Driver_MobileNo": {
+            "type": "string"
+        },
+        "customerID": {
+            "type": "string"
+        },
+        "customerNameCode": {
+            "type": "string"
+        },
+        "supplierID": {
+            "type": "string"
+        },
+        "supplierNameCode": {
+            "type": "string"
+        },
+        "Material Shipped": {
+            "type": "string"
+        }
+    }
+}
